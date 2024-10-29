@@ -1,7 +1,11 @@
 # Final-Project-Template
 <!-- Edit the title above with your project title -->
 
+Social Media Anxiety
+
 ## Project Overview
+
+Using data, how can we begin to solve the rising depression issue within the younger generations when it relates to social media and is there any data trends or systems that could potentially help us get there?
 
 ## Self Assessment and Reflection
 
